@@ -1,4 +1,4 @@
-feat: wrote text
+feat: finished up
 
 
 **Krutikov Vladislav** 
@@ -18,7 +18,7 @@ feat: wrote text
 
 **Education**
 
-
+* *LGPPL in 2014.  Speciality General profile machinist.
 * *GGPTkP in 2014. Speciality - Technical Equipment for Mechanical Engineering Production.
 
 **Languages**
