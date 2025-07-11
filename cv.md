@@ -18,7 +18,7 @@ feat: finished up
 
 **Education**
 
-* *LGPPL in 2014.  Speciality General profile machinist.
+* *LGPPL in 2012.  Speciality General profile machinist.
 * *GGPTkP in 2014. Speciality - Technical Equipment for Mechanical Engineering Production.
 
 **Languages**
