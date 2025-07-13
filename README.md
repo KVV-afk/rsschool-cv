@@ -49,7 +49,7 @@
             <div class="flex flex-col md:flex-row items-center justify-between">
                 <div class="flex items-center mb-6 md:mb-0">
                     <div class="w-24 h-24 rounded-full overflow-hidden border-4 border-white mr-6">
-                        <img src="https://github.com/KVV-afk/rsschool-cv/blob/rsschool-cv-html/photo1.jpg alt="KVV"  width="300" height="300"  class="w-full h-full object-cover">
+  <img src="https://raw.githubusercontent.com/KVV-afk/rsschool-cv/refs/heads/rsschool-cv-html/photo1.jpg" alt="Logo" width="300" height="300" title="RSS Logo" style="border: 2px solid black;" />
                     </div>
                     <div>
                         <h1 class="text-3xl md:text-4xl font-bold">Krutikov Vladislav</h1>
@@ -149,7 +149,7 @@
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <p class="mb-4 md:mb-0">2025 Krutikov Vladislav. </p>
                 <p class="mb-4 md:mb-0">https://rs.school/courses/javascript-ru </p>
-  <img src="https://github.com/KVV-afk/rsschool-cv/blob/rsschool-cv-html/rs-school-logo.svg" alt="Logo" width="200" height="100" title="RSS Logo" style="border: 2px solid black;" />
+  <img src="https://raw.githubusercontent.com/KVV-afk/rsschool-cv/d2fea5ec08d5ba0781daebf7cb4629529aa7de3e/rs-school-logo.svg" alt="Logo" width="200" height="100" title="RSS Logo" style="border: 2px solid black;" />
                 <button onclick="window.print()" class="no-print print-button bg-white text-indigo-700 px-6 py-2 rounded-lg font-medium hover:bg-indigo-50 flex items-center">
                     <i class="fas fa-print mr-2"></i> Print CV
                 </button>
