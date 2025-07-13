@@ -1,4 +1,4 @@
-<html lang="en"><head>
+[<html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV | Krutikov Vladislav</title>
@@ -159,3 +159,7 @@
 
 
 </body></html>
+](https://KVV-afk.github.io/rsschool-cv/cv
+
+
+https://KVV-afk.github.io/rsschool-cv/)
