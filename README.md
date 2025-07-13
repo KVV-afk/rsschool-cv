@@ -1,4 +1,4 @@
-<html lang="en"><head>
+[<html lang="en"><head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV | Krutikov Vladislav</title>
@@ -117,3 +117,4 @@
 
 
 </body></html>
+](https://raw.githubusercontent.com/rolling-scopes-school/tasks/a2a648a704a2eee3e2013b9e13bee765ab00f959/tasks/cv/rs-school-logo.svg)
