@@ -1,6 +1,3 @@
-feat: finished up
-
-
 **Krutikov Vladislav** 
 
 
@@ -10,7 +7,7 @@ feat: finished up
 **About Me**
 
 
-* *36-years old, work at social services. I think trying something new can get me some additional income and developer skill is an activity which can be a good second job.
+* *36-years old, work at social services. I think trying something new which can get me some additional income and developer skill is an activity which can be a good second job.
 
 **Skills**
 
