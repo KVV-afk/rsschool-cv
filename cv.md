@@ -2,7 +2,8 @@
 
 
 **My Contact Info:**
-* Email:krutikovvladislav@gmail.com 
+* Email:krutikovvladislav@gmail.com
+* Phone:+375(33)3217498
 
 **About Me**
 
