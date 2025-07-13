@@ -15,7 +15,7 @@
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row items-center justify-between">
                 <div class="flex items-center mb-6 md:mb-0">
-                    <div class="w-24 h-24 rounded-full overflow-hidden border-4 border-white mr-6">
+                    <div class="w-30 h-30 rounded-full overflow-hidden border-4 border-white mr-6">
   <img src="https://raw.githubusercontent.com/KVV-afk/rsschool-cv/refs/heads/rsschool-cv-html/photo1.jpg" alt="Logo" width="300" height="300" title="RSS Logo" style="border: 2px solid black;" />
                     </div>
                 </div>
